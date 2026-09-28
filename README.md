@@ -5,6 +5,7 @@
 
 ## Cấu trúc source code:
 Gồm các file:
+- `allignment.py`: File code để dóng hàng noisy OCR text với correct text.
 - `fine-tuning.ipynb`: File notebook chứa code để fine-tune model.
 - `testing.ipynb`: File notebook chứa code để testing model sau khi fine-tune, và vẽ các biểu đồ thể hiện độ lỗi mô hình.
 - `train.json`: File json chứa dữ liệu huấn luyện.
